@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Arnab Raychaudhari
-![Data pipelines and Machine Learning](BI-Analyst-Arnab-Raychaudhari.pdf)
 
 I build data pipelines and machine learning models to facilitate data-driven decision making. I'm a passionate learner who loves to devour cloud technologies such AWS Glue, Athena, FireHouse and other visulaization softwares such as Microsoft PowerBI, Grafana etc.
 
