@@ -6,7 +6,7 @@ I build data pipelines and machine learning models to facilitate data-driven dec
 
 I began my career as a Business Analyst at a financial services firm, where I collaborated with the Trade Finance business to engineer and deploy factoring products globally. Later, I served as a Senior Business Analyst at a managed services company and a global leader in data storage, before earning my MS in Business Analytics at The George Washington University, Washington D.C.
 
-Skills: Python, R, Data Engineering, Power BI, Linear and Logistic Regression, Neural Networks, Decision Trees, Random Forest, SVM, k-NN, Ridge, Lasso
+Skills: Python, R, Data Engineering, Power BI, Linear and Logistic Regression, Neural Networks, Decision Trees, Random Forest, SVM, k-NN, Ridge, Lasso, LLMs and RAG.
 
 - 🔭 I’m currently working on Developing a fully automated data pipeline to generate insights on Hourly Stock Aggregate data stream produced by the leading exchanges in the United States of America 
 - 🌱 I’m currently learning Generative AI and the core models fueling its propulsion 
