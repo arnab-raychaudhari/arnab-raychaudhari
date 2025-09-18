@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Arnab Raychaudhari, MS (Business Analytics)
 
-I build data pipelines and machine learning models to facilitate data-driven decision making. I'm a research enthusiast and actively designing my future career in academic research. My areas of interest include <i>Adversarial Machine Learning (AML)</i> and <i>Explainable Decision Models</i>. 
+I develop data pipelines and machine learning models to support data-driven decision-making. As a research enthusiast, I am actively shaping my future career in academia. My primary areas of interest include <i>Adversarial Machine Learning (AML)</i> and <i>Explainable Decision Models</i>.
 
 I began my career as a Business Analyst at a financial services firm, where I collaborated with the Trade Finance business to engineer and deploy factoring products globally. Later, I served as a Senior Business Analyst at a managed services company and a global leader in data storage, before earning my MS in Business Analytics at The George Washington University, Washington D.C.
 
