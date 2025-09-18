@@ -2,9 +2,9 @@
 
 ### Hi there 👋, I'm Arnab Raychaudhari, MS (Business Analytics)
 
-I build data pipelines and machine learning models to facilitate data-driven decision making. I'm a passionate learner who loves to devour cloud technologies such AWS Glue, Athena, FireHouse and other visulaization softwares such as Microsoft PowerBI, Grafana etc.
+I build data pipelines and machine learning models to facilitate data-driven decision making. I'm a research enthusiast and actively designing my future career in academic research. My areas of interest include <i>Adversarial Machine Learning (AML)</i> and <i>Explainable Decision Models</i>. 
 
-I began my career as a Business Analyst at a financial services firm, where I collaborated with the Trade Finance business to engineer and deploy factoring products globally. Later, I served as a Senior Business Analyst at a managed services company and a global leader in data storage, before pursuing my MS in Business Analytics at The George Washington University, Washington D.C.
+I began my career as a Business Analyst at a financial services firm, where I collaborated with the Trade Finance business to engineer and deploy factoring products globally. Later, I served as a Senior Business Analyst at a managed services company and a global leader in data storage, before earning my MS in Business Analytics at The George Washington University, Washington D.C.
 
 Skills: Python, R, Data Engineering, Power BI, Linear and Logistic Regression, Neural Networks, Decision Trees, Random Forest, SVM, k-NN, Ridge, Lasso
 
