@@ -8,10 +8,9 @@ I began my career as a Business Analyst at a financial services firm, where I co
 
 Skills: Python, R, Data Engineering, Power BI, Linear and Logistic Regression, Neural Networks, Decision Trees, Random Forest, SVM, k-NN, Ridge, Lasso, LLMs and RAG.
 
-- 🔭 I’m currently working on Developing a fully automated data pipeline to generate insights on Hourly Stock Aggregate data stream produced by the leading exchanges in the United States of America 
+- 🔭 I’m currently working on my PhD applications to pursue a doctoral degree in Decision Sciences / Information Systems 
 - 🌱 I’m currently learning Generative AI and the core models fueling its propulsion 
-- 👯 I’m looking to collaborate on Advanced Machine Learning and Data Engineering ventures in Enterprise Service Management, Financial Services and Data Storage domains 
-- 🤔 I’m looking for help with Exploring Full-Time Career Opportunities in Business Intelligence and Analytics 
+- 👯 I’m looking to collaborate on reserach publications related to my areas of interest - <i>Adversarial Machine Learning (AML)</i> and <i>Explainable Decision Models</i>
 - 📫 How to reach me: arnab.rc.analytics@gmail.com 
 - 😄 Pronouns: He/Him 
 
