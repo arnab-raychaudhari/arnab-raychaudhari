@@ -1,4 +1,4 @@
-![Data pipelines and Machine Learning](https://github.com/arnab-raychaudhari/arnab-raychaudhari/blob/be76c84a8307838511d7dbdd6d0858fa74d66b07/GitHub%20Profile%20Background.png)
+![Data pipelines and Machine Learning](https://github.com/arnab-raychaudhari/arnab-raychaudhari/blob/608a86dfd34b131f3dbffa71c04e04dc7973626a/GitHub%20Profile%20Background.png)
 
 ### Hi there 👋, I'm Arnab Raychaudhari, MS (Business Analytics)
 
